@@ -1,3 +1,3 @@
 # EVEREST (pipEline for Viral assEmbly and chaRactEriSaTion)
 
-Current version of EVEREST is operative and still in developmet stage.
+The current version of EVEREST is operational and still under development.
