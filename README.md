@@ -1,2 +1,2 @@
-# EVEREST (pipEline Viral assEmbly chaRactEriSaTion)
+# EVEREST (pipEline for Viral assEmbly and chaRactEriSaTion)
 
