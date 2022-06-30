@@ -7,13 +7,11 @@ The current version of EVEREST is operational and still under development.
 
 EVEREST is a snakemake pipeline for virus discovery, its main purpose is to characterise phage genomes isolates but can be also used for all the virome.
 1. Clone EVEREST repository.
-
 ```
 git clone --recursive https://github.com/agudeloromero/EVEREST.git
 ```
 
 2. Create conda environment using everest.yml file.
-
 ```
 conda env -n everest create -f everest.yml
 ```
