@@ -20,9 +20,9 @@ conda env -n everest create -f everest.yml
 
 **How to run**
 
-Edit conf/config.yml file to point to the input, output and databases directories. 
-
-Input directory should contain the .fastq.gz files to analyse ( -j option have to be set depending on number of available cores).
+* Edit conf/config.yml file to point to the input, output and databases directories.
+* The databases include the human genome as a reference to get rid of those reads. However, this link can be changed by an alternative genome. Example of how to download other genomes of interest can be seen here (https://github.com/agudeloromero/Reference_Genomes). 
+* Input directory should contain the .fastq.gz files to analyse ( -j option have to be set depending on number of available cores).
 ```
 snakemake --use-conda -k -j 2 --keep-going
 ```
