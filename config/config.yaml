@@ -3,24 +3,21 @@
 ##----------------##
 
 ##-- Files
-input_DIR:  "/data/Projects/Lung_microbiome/toy"
-output_DIR: "/data/EVEREST"
+input_DIR:  "/path"
+output_DIR: "/path"
 
 ##-- Sequencing
 sequencing: "PE" #SE, PE, Long
 
 ##-- Databases
-adaptor: "/data/snake/adaptors/adaptors.fa"
-genome: "/data/snake/genome/Hs_GRCh38.fa"
-MMSEQ_Viral_DB_nt: "/data/DB_everest/DB_MMSEQ2/viral.nt.fnaDB"
-MMSEQ_Viral_DB_aa: "/data/DB_everest/DB_aa_uniprot/virus_uniprot"
-VIRSORTER_DB: "/data/DB_everest/DB_virsorter/db/"
-CHECKV_DB: "/data/DB_everest/DB_checkv/checkv-db-v1.1/"
-DIAMOND_DB_aa: "/data/DB_everest/DB_aa_diamond/viral_aa_diamond"
-BALTIMORE: "/data/DB_everest/DB_Baltimore/Baltimore_group_ICTV_2021_Generated_16052022_v2.txt"
-TAX_aa: "/data/DB_everest/TAX_aa/"
-TAX_nt: "/data/DB_everest/taxonomy"
-vRhyme: "/data/EVEREST/vRhyme/vRhyme/vRhyme"
-
-#annotation: "RASTt" #RASTt, Prokka
-#genome: "/data/snake/genome/Staphylococcus_aureus_subsp_aureus_TCH60.fasta"
+adaptor: "/path/adaptors/adaptors.fa"
+genome: "/path/genome/Hs_GRCh38.fa"
+MMSEQ_Viral_DB_nt: "/path/DB_everest/DB_MMSEQ2/viral.nt.fnaDB"
+MMSEQ_Viral_DB_aa: "/path/DB_everest/DB_aa_uniprot/virus_uniprot"
+VIRSORTER_DB: "/path/DB_everest/DB_virsorter/db/"
+CHECKV_DB: "/path/DB_everest/DB_checkv/checkv-db-v1.1/"
+DIAMOND_DB_aa: "/path/DB_everest/DB_aa_diamond/viral_aa_diamond"
+BALTIMORE: "/path/DB_everest/DB_Baltimore/Baltimore_group_ICTV_2021_Generated_16052022_v2.txt"
+TAX_aa: "/path/DB_everest/TAX_aa/"
+TAX_nt: "/path/DB_everest/taxonomy"
+vRhyme: "/path/EVEREST/vRhyme/vRhyme/vRhyme"
