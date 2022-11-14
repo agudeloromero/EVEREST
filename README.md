@@ -11,10 +11,14 @@ EVEREST is a snakemake pipeline for virus discovery, its main purpose is to char
 git clone --recursive https://github.com/agudeloromero/EVEREST.git
 ```
 
-2. Create conda environment using everest.yml file.
+2. Create everest environment
+* Creating Snakemake from scratch following these steps[https://github.com/agudeloromero/EVEREST/tree/main/Snakemake_env] **Recommended**
+* using everest.yml file.
+
 ```
 conda env -n everest create -f everest.yml
 ```
+
 
 3. EVEREST databases have to be requesting by email, but they will open soon.
 
