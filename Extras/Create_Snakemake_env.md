@@ -5,7 +5,7 @@
 
 In case you do not have mamba in your Mambaforge
 ```
-$ conda install -n base -c conda-forge mamba=0.15.3
+$ conda install -n base -c conda-forge mamba
 ```
 
 ## **Full Installation**
