@@ -12,7 +12,7 @@ git clone --recursive https://github.com/agudeloromero/EVEREST.git
 ```
 
 2. Create everest environment
-* Creating Snakemake from scratch following these steps[https://github.com/agudeloromero/EVEREST/tree/main/Snakemake_env] **Recommended**
+* Creating Snakemake from scratch following these [steps](https://github.com/agudeloromero/EVEREST/tree/main/Snakemake_env) **Recommended**
 * using everest.yml file.
 
 ```
