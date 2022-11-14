@@ -1,7 +1,0 @@
-name: spades
-channels:
- - bioconda
- - conda-forge
- - defaults
-dependencies:
- - seqkit=2.2.0
