@@ -13,7 +13,7 @@ git clone --recursive https://github.com/agudeloromero/EVEREST.git
 
 2. Create everest environment
 * Creating Snakemake from scratch following these [steps](https://github.com/agudeloromero/EVEREST/blob/main/Extras/Create_Snakemake_env.md) **(Recommended)**
-* using everest.yml file.
+* using [everest.yml](https://github.com/agudeloromero/EVEREST/blob/main/everest.yml) file provided here.
 
 ```
 conda env -n everest create -f everest.yml
