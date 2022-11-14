@@ -1,0 +1,8 @@
+name: spades
+channels:
+ - bioconda
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.7
+ - spades=3.13.0
