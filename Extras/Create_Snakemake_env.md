@@ -12,7 +12,7 @@ $ conda install -n base -c conda-forge mamba -y
 ```
 $ conda activate base
 $ conda create -c anaconda -n everest python=3.9.12 -y
-$ mamba -c conda-forge -c bioconda snakemake=7.3.6 -y
+$ mamba -n everest -c conda-forge -c bioconda snakemake=7.3.6 -y
 ```
 
 ## **Activation of the environment**
