@@ -20,7 +20,7 @@ $ conda env -n everest create -f everest.yml
 ```
 
 
-3. EVEREST databases have to be requesting by email, but they will open soon.
+3. EVEREST databases have to be requested by email, but they will open soon.
 
 **How to run**
 
