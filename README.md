@@ -1,6 +1,7 @@
 # EVEREST (pipEline for Viral assEmbly and chaRactEriSaTion)
 
 The current snakemake version of EVEREST is operational, but this repository is archived.
+
 **Further development is done under nextflow version [here](https://github.com/agudeloromero/everest_nf)**
 
 
